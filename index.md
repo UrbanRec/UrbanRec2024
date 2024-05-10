@@ -43,3 +43,4 @@ The workshop aims to identify pressing challenges and seize opportunities at the
 - [Sanja Šćepanović](https://www.bell-labs.com/about/researcher-profiles/sanjascepanovic)
 - [Rossano Schifanella](http://www.di.unito.it/~schifane)
 - [Wolfgang Wörndl](https://www.ce.cit.tum.de/cm/research-group/wolfgang-woerndl)
+- Contact email: [urbanrec@googlegroups.com](mailto:urbanrec@googlegroups.com)
