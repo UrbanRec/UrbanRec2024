@@ -16,7 +16,7 @@ This workshop aims to bring together practitioners and academics working on impr
 
 ## News
 
-- April'24: Launch of the website
+- May 13, 2024: [Call for Papers](https://urbanrec.github.io/UrbanRec2024/call/)
 
 ## Main Workshop Themes
 
