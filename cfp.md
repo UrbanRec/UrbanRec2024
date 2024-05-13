@@ -64,7 +64,7 @@ Authors should use the CEURART single-column template available at:
 - [Overleaf Template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
 
 ### Review Process
-All submissions will undergo a single-blind peer review by at least two Program Committee members. Accepted papers will be published as open-access proceedings on ceur-ws.org and presented at the workshop.
+All submissions will be evaluated in a single-blind peer review by a minimum of two Program Committee members, who will assess them for workshop relevance, quality, originality, clarity, and research potential. Authors whose papers are accepted will be invited to showcase their research at the workshop, with their work being published as open-access workshop proceedings on ceur-ws.org. 
 
 **Note:** Attendance and presentation by at least one author of each accepted paper is mandatory.
 
