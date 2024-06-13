@@ -9,7 +9,7 @@ permalink: /call/
 - **Paper Submission Deadline:** August 2, 2024
 - **Author Notification:** August 27, 2024
 - **Camera-ready Version:** September 10, 2024
-- **Workshop Date:** October 14 or 18, 2024
+- **Workshop Date:** October 18, 2024
 - **Location:** Bari, Italy (Remote participation available)
 
   
