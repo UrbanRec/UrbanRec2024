@@ -15,6 +15,13 @@ permalink: /committee/
 
 ## Program Committee
 
-The workshop topic is inherently multi-disciplinary, which is reflected in the members of the program committee. 
-
-The list of program committee members will be published here as soon as it is confirmed.
+* Alejandro Bellogin, Universidad Autonoma de Madrid
+* Annelien Smets, imec-SMIT, Vrije Universiteit Brussel,
+* Dirk Ahlers, NTNU - Norwegian University of Science and Technology
+* Iván Cantador, Universidad Autónoma de Madrid
+* Ke Zhou, University of Nottingham
+* Laura Sebastiá, Universitat Politècnica de València
+* Luca Maria Aiello, IT University of Copenhagen
+* Ludovik Coba, Free University of Bozen-Bolzano
+* Pablo Sánchez, Universidad Pontificia Comillas
+* Riccardo Di Clemente, Northeastern University London
