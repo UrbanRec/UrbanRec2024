@@ -10,13 +10,15 @@ layout: home
 
 # First Workshop on Urban Recommender Systems
 
+*Morning of October 18, 2024. Co-located with the ACM Conference on Recommender Systems.*
+
 As we witness an ongoing centralization of the population towards urban landscapes, recommendation technology has an increasing role in people's perception and decision-making in cities. People use recommender systems for choosing places to stay, which attractions and restaurants to visit, and route recommender systems for navigation.
 This workshop aims to bring together practitioners and academics working on improving recommendations in the urban space with an emphasis on both individual needs and urban health and well-being.
 
 
 ## News
 
-- April'24: Launch of the website
+- May 13, 2024: [Call for Papers](https://urbanrec.github.io/UrbanRec2024/call/)
 
 ## Main Workshop Themes
 
@@ -43,3 +45,4 @@ The workshop aims to identify pressing challenges and seize opportunities at the
 - [Sanja Šćepanović](https://www.bell-labs.com/about/researcher-profiles/sanjascepanovic)
 - [Rossano Schifanella](http://www.di.unito.it/~schifane)
 - [Wolfgang Wörndl](https://www.ce.cit.tum.de/cm/research-group/wolfgang-woerndl)
+- Contact email: [urbanrec@googlegroups.com](mailto:urbanrec@googlegroups.com)
