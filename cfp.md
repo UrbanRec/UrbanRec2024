@@ -58,6 +58,8 @@ Submissions are welcomed in the following formats:
 ### Submission Portal
 Submit your contributions through the joint workshop submission portal at [EasyChair](http://easychair.org/my/conference?conf=recsys2024workshops) under the "UrbanRec: Workshop on Urban Recommender Systems" track.
 
+[Submit now](http://easychair.org/my/conference?conf=recsys2024workshops){: .btn}
+
 ### Formatting Instructions
 Authors should use the CEURART single-column template available at:
 - [CEUR-WS Template Information](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
