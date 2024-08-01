@@ -6,7 +6,7 @@ permalink: /call/
 
 
 ### Important Dates
-- **Paper Submission Deadline:** August 2, 2024
+- **Paper Submission Deadline:** ~~August 2~~ August 8, 2024
 - **Author Notification:** August 27, 2024
 - **Camera-ready Version:** September 10, 2024
 - **Workshop Date:** October 18, 2024
