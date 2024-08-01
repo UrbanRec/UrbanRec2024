@@ -18,6 +18,7 @@ This workshop aims to bring together practitioners and academics working on impr
 
 ## News
 
+- August 1, 2024: Extension of submission deadline to August 8, AoE.
 - May 13, 2024: [Call for Papers](https://urbanrec.github.io/UrbanRec2024/call/)
 
 ## Main Workshop Themes
