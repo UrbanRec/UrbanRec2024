@@ -18,8 +18,9 @@ This workshop aims to bring together practitioners and academics working on impr
 
 ## News
 
+- August 15, 2024: Annelien Smets will give a [keynote](/UrbanRec2024/program/) at UrbanRec.
 - August 1, 2024: Extension of submission deadline to August 25, AoE.
-- May 13, 2024: [Call for Papers](https://urbanrec.github.io/UrbanRec2024/call/)
+- May 13, 2024: [Call for Papers](/UrbanRec2024/call/)
 
 ## Main Workshop Themes
 
