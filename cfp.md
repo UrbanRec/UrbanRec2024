@@ -9,7 +9,7 @@ permalink: /call/
 - **Paper Submission Deadline:** ~~August 2~~ August 25, 2024
 - **Author Notification:** September 12, 2024
 - **Camera-ready Version:** September 19, 2024
-- **Workshop Date:** October 18, 2024
+- **Workshop Date:** ~~October 18, 2024~~ cancelled
 - **Location:** Bari, Italy (Remote participation available)
 
   
@@ -54,11 +54,6 @@ Submissions are welcomed in the following formats:
 - **Dataset/Demonstration Papers:** Max 6 pages (excluding references), which will be treated as research papers with emphasis on the data set and data collection method.
 - **Perspectives/Position Papers:** Max 4 pages (excluding references), including extended abstracts of relevant published papers.
 
-
-### Submission Portal
-Submit your contributions through the joint workshop submission portal at [EasyChair](http://easychair.org/my/conference?conf=recsys2024workshops) under the "UrbanRec: Workshop on Urban Recommender Systems" track.
-
-[Submit now](http://easychair.org/my/conference?conf=recsys2024workshops){: .btn}
 
 ### Formatting Instructions
 Authors should use the CEURART single-column template available at:

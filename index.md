@@ -10,14 +10,13 @@ layout: home
 
 # First Workshop on Urban Recommender Systems
 
-*Morning of October 18, 2024. Co-located with the ACM Conference on Recommender Systems.*
-
 As we witness an ongoing centralization of the population towards urban landscapes, recommendation technology has an increasing role in people's perception and decision-making in cities. People use recommender systems for choosing places to stay, which attractions and restaurants to visit, and route recommender systems for navigation.
 This workshop aims to bring together practitioners and academics working on improving recommendations in the urban space with an emphasis on both individual needs and urban health and well-being.
 
 
 ## News
 
+- August 26, 2024: **The UrbanRec Workshop is cancelled due to insufficient number of submissions.**
 - August 15, 2024: Annelien Smets will give a [keynote](/UrbanRec2024/program/) at UrbanRec.
 - August 1, 2024: Extension of submission deadline to August 25, AoE.
 - May 13, 2024: [Call for Papers](/UrbanRec2024/call/)
